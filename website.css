@@ -10,7 +10,7 @@
 }
 .container{
 margin: auto;
-width: 1300px;}
+max-width: 1300px;}
 .header{
     display: flex;
     justify-content: space-around;
